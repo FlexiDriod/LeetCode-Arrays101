@@ -18,6 +18,8 @@ I’m incredibly grateful for this learning experience! 🙌 Completing LeetCode
 9️⃣ **Check if N and Its Double Exist**  
 🔟 **Remove Duplicates from Sorted Array**  
 1️⃣1️⃣ **Replace Elements with Greatest Element on Right Side**  
+1️⃣2️⃣ **Height Checker**  
+1️⃣3️⃣ **Third Maximmum Number**  
 
 ## 🎯 What's Next?  
 I’ll be exploring **Linked Lists, Sorting, and Advanced Data Structures** next! Stay tuned. 🚀  
